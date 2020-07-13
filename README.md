@@ -7,7 +7,7 @@ Use the repository link : https://github.com/pkeyur888/Bookstore.git to download
 Code is editable with the pre installed softwares such as Visual Studio Code, PhpStrom, SublimeText and Notpad++.
 
 ## Usage
-#HTML5, CSS3, JavaScript
+#HTML5, CSS3, JavaScript.
 Backend :Php
 
 
