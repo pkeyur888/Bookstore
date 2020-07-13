@@ -8,8 +8,10 @@ Code is editable with the pre installed softwares such as Visual Studio Code, Ph
 
 ## Usage
 #HTML5, CSS3, JavaScript.
+
 Backend :Php
 
+Database: MySql
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
